@@ -7,4 +7,4 @@
 [Тык](https://github.com/users/Pavelgrr7/projects/2)
 
 ## Гайд по работе с гитом:
-[Тык](docs\git_guide.md)
+[Тык](https://github.com/Pavelgrr7/peer-check/blob/main/docs/git_guide.md)
